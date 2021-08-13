@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'RockSalt';
+    src:url('../fonts/rock-salt-v11-latin-regular.eot');
+    src: url('../fonts/rock-salt-v11-latin-regular.woff2') format('woff2'),
+           url('../fonts/rock-salt-v11-latin-regular.woff') format('woff'),
+           url('../fonts/rock-salt-v11-latin-regular.ttf') format('truetype'),
+           url('../fonts/rock-salt-v11-latin-regular.svg') format('svg');
+  
+    font-weight: normal;
+    font-style: normal;
+    font-size: 12px;
+  }
+  
+  @font-face {
+       font-family:'Tangerine';
+       src:url('../fonts/tangerine/tangerine-regular.eot');
+       src: url('../fonts/tangerine/tangerine-regular.woff2') format('woff2'),
+              url('../fonts/tangerine/tangerine-regular.woff') format('woff'),
+              url('../fonts/tangerine/tangerine-regular.ttf') format('truetype'),
+              url('../fonts/tangerine/tangerine-regular.svg') format('svg');
+     
+       font-weight: normal;
+       font-style: normal;
+       font-size: 12px;
+     }
+   
+
+
+  /*
+  @font-face {
+       font-family: 'FontAwesome';
+       src:url('../webfonts/fa-brands-400.eot');
+       src: url('../webfonts/fa-brands-400.woff2') format('woff2'),
+            url('../webfonts/fa-brands-400.woff') format('woff'),
+            url('../webfonts/fa-brands-400.ttf') format('truetype'),
+            url('../webfonts/fa-brands-400.svg') format('svg'),
+            url('../webfonts/fa-regular-400.eot'),
+            url('../webfonts/fa-regular-400.woff2') format('woff2'),
+            url('../webfonts/fa-regular-400.woff') format('woff'),
+            url('../webfonts/fa-regular-400.ttf') format('truetype'),
+            url('../webfonts/fa-regular-400.svg') format('svg'),
+            url('../webfonts/fa-solid-900.eot'),
+            url('../webfonts/fa-solid-900.woff2') format('woff2'),
+            url('../webfonts/fa-solid-900.woff') format('woff'),
+            url('../webfonts/fa-solid-900.ttf') format('truetype'),
+            url('../webfonts/fa-solid-900.svg') format('svg');
+     }
+   */  
+@font-face {
+          font-family: "Yesteryear";
+          src: url("../fonts/yesteryear.eot"); /* IE9*/
+          src: url("../fonts/yesteryear.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+               url("../fonts/yesteryear.woff2") format("woff2"), /* chrome、firefox */
+               url("../fonts/yesteryear.woff") format("woff"), /* chrome、firefox */
+               url("../fonts/yesteryear.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/
+               url("../fonts/yesteryear.svg#Yesteryear") format("svg"); /* iOS 4.1- */
+}
